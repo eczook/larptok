@@ -11,4 +11,4 @@ the database has users and videos and etc in it from when i was testing, so when
 anyway as i said do whatever u want with this source...
 
 ^^^^ this is v1 (very outdated and bad)
-here the other new versions: https://limewire.com/d/uXySt#Rj4eck0fyr (includes v2 and the brand new v3, fixed many things in v3 and added few stuff)
+here the other new versions: https://larptok.rf.gd/source (includes v2 and the brand new v3, fixed many things in v3 and added few stuff)
